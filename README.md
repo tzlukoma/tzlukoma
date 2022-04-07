@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👏🏿 ... I am Thomas Z Lukoma - a design technologist who loves to tinker with React, CSS, Sanity, Strapi and Firebase.
 
 <!--
 **tzlukoma/tzlukoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
